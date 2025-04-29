@@ -2,34 +2,30 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "datadiego",
-    "label": "Hacker Ético / Full Stack Dev / Técnico Industrial",
+    "name": "Alejandro Rodríguez López-Cózar",
+    "label": "Técnico en Ciberseguridad, Desarrollador de Aplicaciones Web",
     "image": "/avatar.png",
-    "email": "juandiegomariscal@gmail.com",
-    "url": "https://www.hhyyppeerrtteexxtt.art",
-    "summary": "Nacido en 1991, enseño Bases de Datos, Lenguajes de Marcas, Acceso a Datos, Programación de Servicios en NDT y Hacking Ético y Ciberseguridad en Mercedarias FP.",
+    "email": "alrodlop16@gmail.com",
+    "url": "https://www.gcxstudio.cn",
+    "summary": "",
     "theme": "red",
     "location": {
-      "address": "Gójar",
+      "address": "Granada",
       "city": "Granada",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Andalucía"
     },
     "profiles": [
       {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "datadiego",
-        "url": "https://github.com/datadiego"
+        "username": "roloccio16",
+        "url": "https://github.com/roloccio16"
       }
-    ],
-    "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
-    }
+    ]
   },
   "images": {
-    "intro": "Generative / Glitch / Databending",
+    "intro": "Photography is the art of light, and images are the contours of memory.",
     "list": [
       {
         "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
@@ -55,123 +51,78 @@
   },
   "education": [
     {
-      "institution": "Robótica Industrial y Automatización",
-      "url": "",
-      "area": "FP Superior",
+      "institution": "IES Hermenegildo Lanz",
+      "url": "https://www.ieshlanz.es/",
+      "area": "Regular Student",
       "studyType": "Full-time student",
-      "startDate": "2015-9-01",
-      "endDate": "2016-3-01"
+      "startDate": "2021-9-01",
+      "endDate": null
     }
   ],
   "certificates": [
     {
-      "name": "Bootcamp Programación Web Full Stack",
-      "date": "2020-05-01",
+      "name": "Success has lived a day in the world.",
+      "date": "2010-04-14",
       "url": "",
-      "issuer": "KeepCoding"
+      "issuer": "Myself"
+    },
+    {
+      "name": "TCCP - Senior Cloud Architecture Engineer",
+      "date": "2023-05-01",
+      "url": "",
+      "issuer": "Tencent Cloud"
     }
   ],
   "work": [
     {
-      "name": "Mercedarias FP",
-      "position": "Profesor Master Hacking Ético y Ciberseguridad",
-      "location_type": "Presencial",
-      "location": "ES",
-      "url": "https://www.mercedariasfp.com",
-      "startDate": "2024",
+      "name": "Sgguo Development Team",
+      "position": "Full-stack Developer",
+      "location_type": "Remote",
+      "location": "CN",
+      "url": "https://github.com/Sgguo-Development-Team",
+      "startDate": "2022-06-01",
       "endDate": null,
-      "summary": "Profesor de Hacking Ético y Ciberseguridad."
-    },
-    {
-      "name": "NDT",
-      "position": "Profesor FP DAM",
-      "location_type": "Presencial",
-      "location": "ES",
-      "url": "",
-      "startDate": "2024",
-      "endDate": null,
-      "summary": "Profesor de Bases de Datos, Lenguajes de Marcado, Acceso a Datos, Programación de Servicios.",
-      "responsibilities": [
-        "Desarrollo de sitios estaticos",
-        "Desarrollo de aplicaciones web con Node.js y React.",
-        "Desarrollo de bases de datos con SQLite, MySQL y JSONbin.",
-        "Desarrollo de sitios estaticos con Astro.",
-        "Despliegue de aplicaciones",
-        "Contenerización de aplicaciones con Docker.",
-        "Creación de cilos CI/CD con GitHub Actions"
-      ]
-    },
-    {
-      "name": "ESCAV",
-      "position": "Profesor FP DAM",
-      "location_type": "Presencial",
-      "location": "ES",
-      "url": "https://www.escav.es",
-      "startDate": "2023",
-      "endDate": "2024",
-      "summary": "Profesor de Bases de Datos y Lenguajes de Marcado.",
-      "responsibilities": [
-        "Desarrollo de sitios estaticos",
-        "Desarrollo de aplicaciones web con Node.js y React.",
-        "Desarrollo de bases de datos con SQLite, MySQL y JSONbin."
-      ]
-    },
-    {
-      "name": "Cruz Roja Española",
-      "position": "Enseñanza",
-      "location_type": "Presencial",
-      "location": "ES",
-      "url": "https://www.cruzroja.es",
-      "startDate": "2022",
-      "endDate": "2023",
-      "summary": "Enseñanza de Scratch y nuevas tecnologías a jóvenes en riesgo de exclusión social.",
-      "highlights": [
-        "Desarrollo de varios juegos en Scratch y proyectos artisticos en p5js."
-      ],
-      "responsibilities": [
-        "Enseñanza de conceptos básicos de programación y arte digital.",
-        "Desarrollo de proyectos en Scratch y p5js."
-      ]
-    },
-
-    {
-      "name": "Rodama S.L.",
-      "position": "Robótica industrial",
-      "location_type": "Presencial",
-      "location": "ES",
-      "url": "https://rodama.com",
-      "startDate": "2018",
-      "endDate": "2022",
-      "summary": "Desarrollo, montaje y testing de módulos industriales.",
+      "summary": "Developing high-availability full-stack projects.",
       "highlights": [
         "Enhanced internal workflow efficiency by 30%."
       ],
       "responsibilities": [
-        "Montaje, cableado y testing de módulos atornilladores manuales y automatizados.",
-        "Configuración y montaje de sistemas robóticos automatizados.",
-        "Configuración y montaje de sistemas de control SCADA.",
-        "Operación, mantenimiento y reparación de sistemas de impresión 3D tipo FDM y SLA."
+        "Developed and maintained backend services using Node.js and Golang."
       ],
       "achievements": [
-        "Implementación y mantenimiento de un sistema de control y monitorización para impresoras 3D."
-      ]
+        "Implemented a cloud drive and verification code system."
+      ],
+      "skills": {
+        "PHP": "simple-icons:php",
+        "Node": "ri:nodejs-line",
+        "Golang": "simple-icons:go",
+        "Next.js": "ri:nextjs-fill",
+        "React": "mdi:react",
+        "SQL": "simple-icons:mysql",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "NestJS": "simple-icons:nestjs",
+        "Vue": "mdi:vuejs"
+      }
     },
     {
-      "name": "Scoop Foundation",
-      "position": "Desarrollo Web",
+      "name": "Riddle Town Team",
+      "position": "Full-stack Developer",
       "location_type": "Remote",
-      "location": "IR",
-      "url": "https://www.facebook.com/scoopfoundation/",
-      "startDate": "2017-01-01",
-      "endDate": "2018-02-11",
-      "summary": "Diseño, despliegue y mantenimiento de aplicaciones.",
+      "location": "CN",
+      "url": "https://rth2.gcxstudio.cn",
+      "startDate": "2023-01-01",
+      "endDate": "2024-02-11",
+      "summary": "Led page design and account systems.",
       "highlights": [
+        "Completed 95% of project content."
       ],
       "responsibilities": [
-        "Desarrollo completo de aplicaciones web."
+        "Developed complete pages.",
+        "Integrated user-facing elements with server-side logic."
       ],
       "achievements": [
-        "Desarrollo de un ciclo CI/CD para desplegar y desarrollar aplicaciones."
+        "Ensured smooth project execution."
       ],
       "skills": {
         "HTML": "simple-icons:html5",
