@@ -2,7 +2,7 @@
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 import astroIcon from 'astro-icon';
-import vercel from "@astrojs/vercel/static";
+//import vercel from "@astrojs/vercel/static";
 import playformCompress from "@playform/compress";
 
 // https://astro.build/config
@@ -26,5 +26,5 @@ export default defineConfig({
   ],
   outDir: 'dist',
   output: 'static',
-  adapter: vercel()
+  //adapter: vercel()
 });
