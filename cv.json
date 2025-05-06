@@ -6,9 +6,9 @@
     "label": "Técnico en Ciberseguridad, Desarrollador de Aplicaciones Web",
     "image": "/avatar.png",
     "email": "alrodlop16@gmail.com",
-    "url": "https://www.gcxstudio.cn",
+    "url": "",
     "summary": "",
-    "theme": "red",
+    "theme": "blue",
     "location": {
       "address": "Granada",
       "city": "Granada",
@@ -29,72 +29,91 @@
     }
   },
   "images": {
-    "intro": "Photography is the art of light, and images are the contours of memory.",
+    "intro": "",
     "list": [
       {
-        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
-        "alt": "Sunset in Nanchang",
-        "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
+        "image": "",
+        "alt": "",
+        "desc": ""
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
-        "alt": "My Cat",
-        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
+        "image": "",
+        "alt": "",
+        "desc": ""
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
-        "alt": "Emoji",
-        "desc": "True, dude"
+        "image": "",
+        "alt": "",
+        "desc": ""
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
-        "alt": "Cat Kernel Crashed",
-        "desc": "Cat Kernel Crashed"
+        "image": "",
+        "alt": "",
+        "desc": ""
       }
     ]
   },
   "education": [
     {
+      "institution": "Mercedarias Granada FP",
+      "url": "https://fp.mercedarias.es/granada/",
+      "area": "Ciberseguridad",
+      "studyType": "Estudiante de curso de especialización/máster",
+      "startDate": "2024-9-07",
+      "endDate": "2025-6-09"
+    },
+    {
       "institution": "IES Hermenegildo Lanz",
       "url": "https://www.ieshlanz.es/",
-      "area": "Regular Student",
-      "studyType": "Full-time student",
-      "startDate": "2021-9-01",
-      "endDate": null
+      "area": "Desarrollo de Aplicaciones Web",
+      "studyType": "Estudiante de FP",
+      "startDate": "2022-9-12",
+      "endDate": "2023-6-22"
+    },
+    {
+      "institution": "Medac",
+      "url": "https://medac.es/",
+      "area": "Desarrollo de Aplicaciones Web",
+      "studyType": "Estudiante de FP",
+      "startDate": "2021-9-12",
+      "endDate": "2022-6-22"
+    },
+    {
+      "institution": "IES Padre Manjón",
+      "url": "https://iespm.es/",
+      "area": "Bachillerato tecnológico",
+      "studyType": "Estudiante de Bachillerato tecnológico",
+      "startDate": "2018-9-12",
+      "endDate": "2020-6-22"
     }
+
+    
   ],
   "certificates": [
     {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
-      "url": "",
-      "issuer": "Myself"
-    },
-    {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
-      "url": "",
-      "issuer": "Tencent Cloud"
+      "name": "First Certificate in English (FCE) B2",
+      "date": "2017",
+      "issuer": "Cambridge Assessment English"
     }
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
-      "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "name": "Garaje de Ideas",
+      "position": "Desarrollador web junior",
+      "location_type": "Remoto",
+      "location": "ES, Madrid",
+      "url": "https://garajedeideas.com/",
+      "startDate": "2023-02-01",
+      "endDate": "2023-06-15",
+      "summary": "Prácticas de desarrollo web en una agencia de Diseño, Tecnología, Data y Growth..",
       "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
+        ""
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Mantenimiento y desarrollo de un portal web de productos médicos de una empresa china con javascript."
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Durante este periodo aprendi a usar Wordpress desde 0 a un buen nivel, aprendí mucho sobre diseño web y desarrollo frontend"
       ],
       "skills": {
         "PHP": "simple-icons:php",
@@ -107,42 +126,6 @@
         "GitHub": "mdi:github",
         "NestJS": "simple-icons:nestjs",
         "Vue": "mdi:vuejs"
-      }
-    },
-    {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
-      "highlights": [
-        "Completed 95% of project content."
-      ],
-      "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
-      ],
-      "achievements": [
-        "Ensured smooth project execution."
-      ],
-      "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
       }
     }
   ],
