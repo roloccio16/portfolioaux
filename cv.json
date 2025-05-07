@@ -118,6 +118,7 @@
       ],
       "skills": {
         "PHP": "simple-icons:php",
+        "CSS": "ri:css3-fill",
         "Node": "ri:nodejs-line",
         "Golang": "simple-icons:go",
         "Next.js": "ri:nextjs-fill",
@@ -126,7 +127,9 @@
         "Git": "mdi:git",
         "GitHub": "mdi:github",
         "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
+        "Vue": "mdi:vuejs",
+        "HTML": "simple-icons:html5",
+        "WordPress": "ri:wordpress-fill"
       }
     }
   ],
@@ -162,14 +165,13 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
+      "name": "SASS",
+      "icon": "simple-icons:sass",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
-        "CSS Framework",
-        "Responsive Design"
+        "CSS Preprocessor"
       ]
     },
     {
@@ -291,16 +293,6 @@
       ]
     },
     {
-      "name": "Vite",
-      "icon": "simple-icons:vite",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
-    },
-    {
       "name": "WordPress",
       "icon": "ri:wordpress-fill",
       "level": "Intermediate",
@@ -351,43 +343,6 @@
       ]
     },
     {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
       "name": "Shell",
       "icon": "simple-icons:shell",
       "level": "Intermediate",
@@ -416,40 +371,344 @@
       ]
     },
     {
+      "name": "C",
+      "icon": "simple-icons:c",
+      "level": "Intermediate",
+      "keywords": [
+        "Programming Language",
+        "Backend",
+        "Systems Programming"
+      ]
+    },
+    {
+      "name": "Java",
+      "icon": "mdi:language-java",
+      "level": "Intermediate",
+      "keywords": [
+        "Programming Language",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Python",
+      "icon": "mdi:language-python",
+      "level": "Intermediate",
+      "keywords": [
+        "Programming Language",
+        "Backend",
+        "Scripting"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "icon": "mdi:language-ruby",
+      "level": "Intermediate",
+      "keywords": [
+        "Programming Language",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Bash Script",
+      "icon": "mdi:console",
+      "level": "Intermediate",
+      "keywords": [
+        "Scripting",
+        "Automation",
+        "Shell"
+      ]
+    },
+    {
+      "name": "PowerShell",
+      "icon": "mdi:console",
+      "level": "Intermediate",
+      "keywords": [
+        "Scripting",
+        "Automation",
+        "Shell"
+      ]
+    },
+    {
+      "name": "AWS",
+      "icon": "simple-icons:amazonaws",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud",
+        "Infrastructure",
+        "Hosting"
+      ]
+    },
+    {
+      "name": "DigitalOcean",
+      "icon": "simple-icons:digitalocean",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud",
+        "Infrastructure",
+        "Hosting"
+      ]
+    },
+    {
       "name": "Netlify",
       "icon": "simple-icons:netlify",
       "level": "Intermediate",
       "keywords": [
-        "Serverless",
-        "Static Site Hosting"
+        "Cloud",
+        "Hosting",
+        "Frontend"
       ]
     },
     {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
+      "name": "Render",
+      "icon": "simple-icons:render",
       "level": "Intermediate",
       "keywords": [
-        "Cloud Service"
+        "Cloud",
+        "Hosting",
+        "Fullstack"
       ]
     },
     {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
-      "level": "Expert",
+      "name": "Vultr",
+      "icon": "simple-icons:vultr",
+      "level": "Intermediate",
       "keywords": [
-        "Serverless",
-        "Edge Computing"
+        "Cloud",
+        "Infrastructure",
+        "Hosting"
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "icon": "simple-icons:googlecloud",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud",
+        "Infrastructure",
+        "Hosting"
+      ]
+    },
+    {
+      "name": "Azure",
+      "icon": "simple-icons:microsoftazure",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud",
+        "Infrastructure",
+        "Hosting"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "icon": "simple-icons:cloudflare",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud",
+        "CDN",
+        "Security"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "mdi:bootstrap",
+      "level": "Intermediate",
+      "keywords": [
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Django",
+      "icon": "simple-icons:django",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "Web Framework",
+        "Python"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "icon": "simple-icons:express",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "Web Framework",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "jQuery",
+      "icon": "mdi:jquery",
+      "level": "Intermediate",
+      "keywords": [
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "JWT",
+      "icon": "simple-icons:jsonwebtokens",
+      "level": "Intermediate",
+      "keywords": [
+        "Authentication",
+        "Security",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "icon": "simple-icons:laravel",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "Web Framework",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Apache",
+      "icon": "simple-icons:apache",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Server",
+        "Backend",
+        "Hosting"
+      ]
+    },
+    {
+      "name": "Apache Tomcat",
+      "icon": "simple-icons:apachetomcat",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Server",
+        "Backend",
+        "Java"
+      ]
+    },
+    {
+      "name": "MariaDB",
+      "icon": "simple-icons:mariadb",
+      "level": "Intermediate",
+      "keywords": [
+        "Database",
+        "SQL",
+        "Backend"
+      ]
+    },
+    {
+      "name": "SQLite",
+      "icon": "simple-icons:sqlite",
+      "level": "Intermediate",
+      "keywords": [
+        "Database",
+        "SQL",
+        "Backend"
+      ]
+    },
+    {
+      "name": "GitLab",
+      "icon": "mdi:gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitLab CI",
+      "icon": "simple-icons:gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "CI/CD",
+        "Automation",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Containers",
+        "DevOps",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Grafana",
+      "icon": "simple-icons:grafana",
+      "level": "Intermediate",
+      "keywords": [
+        "Monitoring",
+        "Visualization",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Postman",
+      "icon": "simple-icons:postman",
+      "level": "Intermediate",
+      "keywords": [
+        "API Testing",
+        "Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Prettier",
+      "icon": "simple-icons:prettier",
+      "level": "Intermediate",
+      "keywords": [
+        "Code Formatting",
+        "Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Raspberry Pi",
+      "icon": "simple-icons:raspberrypi",
+      "level": "Intermediate",
+      "keywords": [
+        "Hardware",
+        "IoT",
+        "Development"
+      ]
+    },
+    {
+      "name": "TOR",
+      "icon": "simple-icons:torproject",
+      "level": "Intermediate",
+      "keywords": [
+        "Privacy",
+        "Networking",
+        "Security"
+      ]
+    },
+    {
+      "name": "XFCE",
+      "icon": "simple-icons:xfce",
+      "level": "Intermediate",
+      "keywords": [
+        "Desktop Environment",
+        "Linux",
+        "UI"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Chinese",
-      "fluency": "Native speaker"
+      "language": "Spanish",
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Intermediate"
+      "fluency": "Advanced"
     }
   ],
   "interests": [
