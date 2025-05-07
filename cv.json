@@ -3,7 +3,7 @@
   "pageLayout": "two-column",
   "basics": {
     "name": "Alejandro Rodríguez López-Cózar",
-    "label": "Técnico en Ciberseguridad, Desarrollador de Aplicaciones Web",
+    "label": "Especialista en Ciberseguridad en Entornos de las Tecnologías de la Información, Desarrollador de Aplicaciones Web",
     "image": "/avatar.png",
     "email": "alrodlop16@gmail.com",
     "url": "",
@@ -57,7 +57,7 @@
     {
       "institution": "Mercedarias Granada FP",
       "url": "https://fp.mercedarias.es/granada/",
-      "area": "Ciberseguridad",
+      "area": "Curso de especialización en Ciberseguridad en Entornos de las Tecnologías de la Información",
       "studyType": "Estudiante de curso de especialización/máster",
       "startDate": "2024-9-07",
       "endDate": "2025-6-09"
@@ -750,7 +750,7 @@
         "position": ""
       },
       "isActive": true,
-      "description": "Cheatsheet para que puedas poder acceder a todos los comandos que necesites usar en tu día a día",
+      "description": "Cheatsheet para que puedas acceder a todos los comandos que necesites usar en tu día a día",
       "highlights": [
         "👌 Ya tiene unos cuantos comandos básicos",
         "😮‍ No hay límite, mientras el formato coincida puedes ir añadiendo a la carpeta cheats tus comandos más usados o que quieras recordar",
@@ -766,7 +766,7 @@
         "position": ""
       },
       "isActive": true,
-      "description": "Herramienta de pentesting enfocada a explorar vulnerabilidades de sitios web. (Desarrollada en colaboración con https://github.com/Xelofrost)",
+      "description": "Herramienta de pen testing enfocada a explorar vulnerabilidades de sitios web. (Desarrollada en colaboración con https://github.com/Xelofrost)",
       "highlights": [
         "🔓 Sin necesidad de registro, simplemente se instala y  listo para usar.",
         "🚀 Constante actualización y generación de mapa con markdown",
